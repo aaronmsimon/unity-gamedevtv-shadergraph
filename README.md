@@ -38,7 +38,7 @@ by [GameDev.tv](https://www.gamedev.tv)
 ### Wind
 - Section Intro - Wind (0:41)
 - [Simple Displacement](https://github.com/aaronmsimon/unity-gamedevtv-shadergraph/commit/5646d46ee690b4773a9d3aefa130e8645b9db7c1) (11:38)
-- Normal Displacement (8:15)
+- [Normal Displacement](https://github.com/aaronmsimon/unity-gamedevtv-shadergraph/commit/9d845da341e5ce61b0f125b3ba2cb5dc1c3bf4bb) (8:15)
 - Linear Waves (14:03)
 - Noise Displacement (10:37)
 - Wind (12:26)
