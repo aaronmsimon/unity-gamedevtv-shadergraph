@@ -42,4 +42,10 @@ by [GameDev.tv](https://www.gamedev.tv)
 - [Linear Waves](https://github.com/aaronmsimon/unity-gamedevtv-shadergraph/commit/6bbb866e0f2254fef7f779aeab379722fa8d53c1) (14:03)
 - [Noise Displacement](https://github.com/aaronmsimon/unity-gamedevtv-shadergraph/commit/44188cc0ce240d8894406d58fc81aae142cada92) (10:37)
 - [Wind](https://github.com/aaronmsimon/unity-gamedevtv-shadergraph/commit/c3f61e19272f770d2ce0b879eb55272ded207dc7) (12:26)
-- Advanced Wind (8:15)
+- [Advanced Wind](https://github.com/aaronmsimon/unity-gamedevtv-shadergraph/commit/1da9a095bf54379f3eb4bbe3a7c04c03484dbc45) (8:15)
+
+### Fire & Smoke
+- Section Intro - Fire & Smoke (0:38)
+- Fire (12:03)
+- Moving Fire (9:03)
+- Smoke (6:56)
