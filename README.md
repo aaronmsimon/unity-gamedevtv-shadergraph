@@ -46,6 +46,6 @@ by [GameDev.tv](https://www.gamedev.tv)
 
 ### Fire & Smoke
 - Section Intro - Fire & Smoke (0:38)
-- Fire (12:03)
+- [Fire](https://github.com/aaronmsimon/unity-gamedevtv-shadergraph/commit/8c3b0477031771383aa9a6f60c6ac60deabe0ba8) (12:03)
 - Moving Fire (9:03)
 - Smoke (6:56)
