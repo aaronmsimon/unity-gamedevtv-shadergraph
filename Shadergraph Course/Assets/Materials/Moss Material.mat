@@ -43,8 +43,9 @@ Material:
     m_Ints: []
     m_Floats:
     - _AccumulationSize: 300
-    - _Amount: 0.675
-    - _NoiseSize: 10000
+    - _Amount: 0.65
+    - _Blend: 100
+    - _NoiseSize: 500
     - _NoiseStrength: 0.974
     - _QueueControl: 0
     - _QueueOffset: 0
