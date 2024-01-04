@@ -52,6 +52,6 @@ by [GameDev.tv](https://www.gamedev.tv)
 
 ### Moss
 - Section Intro - Moss (0:40)
-- Moss (11:26)
+- [Moss](https://github.com/aaronmsimon/unity-gamedevtv-shadergraph/commit/a6ad25261c2e27d5ef524cb92752e6bac71a3ae2) (11:26)
 - Triplanar Mapping UV (9:24)
 - Directional Moss Accumulation (3:21)
