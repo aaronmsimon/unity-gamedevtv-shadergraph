@@ -48,4 +48,10 @@ by [GameDev.tv](https://www.gamedev.tv)
 - Section Intro - Fire & Smoke (0:38)
 - [Fire](https://github.com/aaronmsimon/unity-gamedevtv-shadergraph/commit/8c3b0477031771383aa9a6f60c6ac60deabe0ba8) (12:03)
 - [Moving Fire](https://github.com/aaronmsimon/unity-gamedevtv-shadergraph/commit/c343ae3bba814e18cfdeff93ca4c9e7b3150bab6) (9:03)
-- Smoke (6:56)
+- [Smoke](https://github.com/aaronmsimon/unity-gamedevtv-shadergraph/commit/0bea4ba86327183f5886fd5c0b1400eef98aee98) (6:56)
+
+### Moss
+- Section Intro - Moss (0:40)
+- Moss (11:26)
+- Triplanar Mapping UV (9:24)
+- Directional Moss Accumulation (3:21)
