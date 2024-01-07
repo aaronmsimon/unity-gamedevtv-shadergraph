@@ -54,7 +54,7 @@ by [GameDev.tv](https://www.gamedev.tv)
 - Section Intro - Moss (0:40)
 - [Moss](https://github.com/aaronmsimon/unity-gamedevtv-shadergraph/commit/a6ad25261c2e27d5ef524cb92752e6bac71a3ae2) (11:26)
 - [Triplanar Mapping UV](https://github.com/aaronmsimon/unity-gamedevtv-shadergraph/commit/4c66200a1de6520dc17dcbf843291377b503ab4f) (9:24)
-- Directional Moss Accumulation (3:21)
+- [Directional Moss Accumulation](https://github.com/aaronmsimon/unity-gamedevtv-shadergraph/commit/b581ea5cf76e18dc436d023d0377ae1498eb16bb) (3:21)
 
 ### Snow
 - Section Intro - Snow (0:54)
