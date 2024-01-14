@@ -100,7 +100,7 @@ Material:
     - _AddPrecomputedVelocity: 0
     - _AlphaClip: 0
     - _AlphaToMask: 0
-    - _Amount: 1
+    - _Amount: 0.716
     - _Blend: 64
     - _BlendModePreserveSpecular: 1
     - _BlendOp: 0
@@ -117,6 +117,7 @@ Material:
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
+    - _Height: 0.025
     - _Metallic: 0
     - _NoiseSize: 200
     - _NoiseStrength: 0.5

@@ -96,11 +96,11 @@ Material:
     m_Ints: []
     m_Floats:
     - _AccumulationSize: 5
-    - _AccumulationTolerance: 0.867
+    - _AccumulationTolerance: 0.3
     - _AddPrecomputedVelocity: 0
     - _AlphaClip: 0
     - _AlphaToMask: 0
-    - _Amount: 1
+    - _Amount: 0.697
     - _Blend: 223.4
     - _BlendModePreserveSpecular: 1
     - _BumpScale: 1
@@ -116,6 +116,7 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
+    - _Height: 0.1
     - _Metallic: 0
     - _Mode: 0
     - _NoiseSize: 200
