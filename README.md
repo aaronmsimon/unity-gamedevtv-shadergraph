@@ -59,5 +59,5 @@ by [GameDev.tv](https://www.gamedev.tv)
 ### Snow
 - Section Intro - Snow (0:54)
 - [Snow](https://github.com/aaronmsimon/unity-gamedevtv-shadergraph/commit/c11c63fd85f96b6e5d99fc3b83ae626ae4e31a4b) (7:22)
-- Height Deformed Snow (4:14)
+- [Height Deformed Snow](https://github.com/aaronmsimon/unity-gamedevtv-shadergraph/commit/ddc9cd5eb7d046751f252478554415d121895c8c) (4:14)
 - Dynamically Deformed Snow (16:08)
